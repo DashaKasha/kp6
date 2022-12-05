@@ -1,0 +1,4 @@
+﻿  kp6.cpp
+D:\учеба\C++\kp6\kp6\kp6.h(84): warning C4715: HashTable<int,int>::operator[]: значение возвращается не при всех путях выполнения
+D:\учеба\C++\kp6\kp6\kp6.h(49): warning C4715: HashTable<int,int>::Search: значение возвращается не при всех путях выполнения
+  kp6.vcxproj -> D:\учеба\C++\kp6\x64\Debug\kp6.exe
